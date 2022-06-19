@@ -1,2 +1,2 @@
-# Maze-Ue4-C-
+# Maze
 Project developed in Unreal Engine with C++ and Blueprints.
